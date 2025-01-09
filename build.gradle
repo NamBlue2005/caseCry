@@ -14,7 +14,7 @@ ext {
     junitVersion = '5.10.2'
 }
 java {
-    sourceCompatibility = JavaVersion.VERSION_1
+    sourceCompatibility = JavaVersion.VERSION_1_8
     targetCompatibility = JavaVersion.VERSION_1_8
 }
 tasks.withType(JavaCompile) {
@@ -36,3 +36,4 @@ dependencies {
 
 tasks.war {
     archiveFileName = 'learnToCry.war'
+}
