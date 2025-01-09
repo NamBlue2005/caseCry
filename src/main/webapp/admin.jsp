@@ -80,7 +80,7 @@
         <div class="logo">Admin Dashboard</div>
         <nav>
             <ul class="nav">
-                <li class="nav-item"><a href="../index.jsp" class="nav-link">Trang Chủ</a></li>
+                <li class="nav-item"><a href="welcome.jsp" class="nav-link">Trang Chủ</a></li>
                 <li class="nav-item"><a href="logout.jsp" class="nav-link">Đăng Xuất</a></li>
             </ul>
         </nav>

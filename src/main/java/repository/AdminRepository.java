@@ -8,9 +8,6 @@ import java.util.List;
 public class AdminRepository {
     private static final String SELECT_ALL_USENAME = "SELECT Username FROM admin";
     private static final String SELECT_ALL_PASSWORD = "SELECT password FROM admin";
-//
-//    public static List<Admin> getUsenamePassword() {
-//        List<Admin> admins = new ArrayList<>();
-//
-//    }
+
+
 }
